@@ -13,10 +13,9 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [RP2040](https://au.mouser.com/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D&mgh=1&vip=1&srsltid=AU7gw4V5dOgP_s2zkH8mJCFWkov7dQvb8Rx8DgTSuN1EhIsGgNniA-P8aN0) | It is the micro-controller of the project | 1 | $7.82 | $7.82 | [Mouser Australia](https://au.mouser.com/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D&mgh=1&vip=1&srsltid=AU7gw4V5dOgP_s2zkH8mJCFWkov7dQvb8Rx8DgTSuN1EhIsGgNniA-P8aN0) |
-| [3.7V Lithium-Polymer (LiPo) Battery](https://core-electronics.com.au/polymer-lithium-ion-battery-400mah-38456.html) | Providing battery and Power | 1 | $5.55 | $5.55 | [Core Electronics](https://core-electronics.com.au/polymer-lithium-ion-battery-400mah-38456.html) |
 | [3.5-inch LCD Display Module (SPI)](https://www.elecrow.com/3-5-inch-480-320-spi-tft-lcd-module-with-ili9488-driver.html?srsltid=AU7gw4VqXNHq7baUoUF8qEiWORUMHttfiu9ezyLlIhYWukCdBponm5gMdFQ) | Screen | 1 | $13.60 | $13.60 | [Elecrow](https://www.elecrow.com/3-5-inch-480-320-spi-tft-lcd-module-with-ili9488-driver.html?srsltid=AU7gw4VqXNHq7baUoUF8qEiWORUMHttfiu9ezyLlIhYWukCdBponm5gMdFQ) |
-| **Parts subtotal** | — | — | — | **$26.97** | — |
+| **Parts subtotal** | — | — | — | **$21.42** | — |
 | **Tax & shipping** | — | — | — | **$3.70** | — |
-| **Total** | — | — | — | **$30.67** | — |
+| **Total** | — | — | — | **$25.12** | — |
 
-**$0.67 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$4.88 left of the tier's funding.
