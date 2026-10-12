@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [RP2040](https://au.mouser.com/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D&mgh=1&vip=1&srsltid=AU7gw4V5dOgP_s2zkH8mJCFWkov7dQvb8Rx8DgTSuN1EhIsGgNniA-P8aN0) | It is the micro-controller of the project | 1 | $7.82 | $7.82 | [Mouser Australia](https://au.mouser.com/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D&mgh=1&vip=1&srsltid=AU7gw4V5dOgP_s2zkH8mJCFWkov7dQvb8Rx8DgTSuN1EhIsGgNniA-P8aN0) |
 | **Parts subtotal** | — | — | — | **$7.82** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$7.82** | — |
+| **Tax & shipping** | — | — | — | **$3.70** | — |
+| **Total** | — | — | — | **$11.52** | — |
 
-$22.18 left of the tier's funding.
+$18.48 left of the tier's funding.
