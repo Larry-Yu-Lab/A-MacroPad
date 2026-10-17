@@ -1,9 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-RP2040,1,Mouser Australia,$7.82,$7.82,https://au.mouser.com/en/ProductDetail/Seeed-Studio/102010428?qs=Znm5pLBrcAJ75FCbdxzDHQ%3D%3D&mgh=1&vip=1&srsltid=AU7gw4V5dOgP_s2zkH8mJCFWkov7dQvb8Rx8DgTSuN1EhIsGgNniA-P8aN0
-3.5-inch LCD Display Module (SPI),1,Elecrow,$13.60,$13.60,https://www.elecrow.com/3-5-inch-480-320-spi-tft-lcd-module-with-ili9488-driver.html?srsltid=AU7gw4VqXNHq7baUoUF8qEiWORUMHttfiu9ezyLlIhYWukCdBponm5gMdFQ
-DIODE STANDARD 75V 250MA SOD123,8,DigiKey,$0.20,$1.60,https://www.digikey.com.au/en/products/detail/smc-diode-solutions/1N4148W/6022450?srsltid=AU7gw4Wh8kiJQeg7kZEjhvC1Cgmmj2fHp8rQdNtKbzFyqVi6FyBiNc1p
-"1x14 female header, 2.54 mm pitch,",1,Proto Supplies,$0.75,$0.75,https://protosupplies.com/product/header-female-1x14/
-C&K JS202011JCQN,1,Mouser,$1.38,$1.38,https://au.mouser.com/en/ProductDetail/CK/JS202011JCQN?qs=74EMXstkWMXJzVJFnXPbEg%3D%3D&srsltid=AU7gw4X_bFptNInmStcX_o0bwHAP2jclOUYb2_4Xm1dFCEjck5m7No1F
-"JST PH S2B-PH-K (2-pin, 2.00 mm, horizontal, through-hole)",1,DigiKey,$0.17,$0.17,https://www.digikey.com.au/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626?srsltid=AU7gw4WfC-9SnMme0dtdWhS6CAMVEPro_d1Zyupi1EiEDd2ZpY_rrkc-
-B2B-XH-A,1,DigiKey,$0.15,$0.15,https://www.digikey.com.au/en/products/detail/jst-sales-america-inc/B2B-XH-A/1651045
-Estimated total shipping,1,,,$7.00,
+Switches,1,Switch Keys,$9.00,$9.00,https://www.switchkeys.com.au/products/gateron-baby-kangaroo-switches-x10
+Key Cap,1,Switch Keys,$7.00,$7.00,https://www.switchkeys.com.au/products/laser-ninja-dsa-blank-keycaps?_pos=11&_fid=4d85772a0&_ss=c
+Estimated total shipping,1,,,$0.00,
