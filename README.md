@@ -16,4 +16,13 @@ PCB Board Layout:
 
 <img width="690" height="823" alt="image" src="https://github.com/user-attachments/assets/5d5dfc46-7add-452a-a319-109a374881fc" />
 
+The Case:
+
+<img width="616" height="564" alt="image" src="https://github.com/user-attachments/assets/4de45f1d-97de-4f13-a95d-cfd5d31103b5" />
+
+<img width="538" height="578" alt="image" src="https://github.com/user-attachments/assets/00cec14f-3f8e-480d-9b0a-f5744fdc76ae" />
+
+<img width="552" height="562" alt="image" src="https://github.com/user-attachments/assets/51eeab51-238a-40a1-b5c6-c6c847933121" />
+
+
 
